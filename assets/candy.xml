@@ -18,15 +18,15 @@ day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
     <meta_data creator="Aaron_Wieneke" />
-    <change_interval minutes="1440" />
-    <list_header image="candy_blue" name="Candy Blue"/>
-    <list_header image="candy_darkside" name="Candy Darkside"/>
-    <list_header image="candy_outline" name="Candy Outline"/>
-    <list_header image="candy_random" name="Candy Random"/>
-    <list_header image="candy_red" name="Candy Red"/>
-    <list_header image="candy_redmint" name="Candy Redmint"/>
-    <list_header image="candy_redswirl" name="Candy Redswirl"/>
-    <list_header image="candy_solid" name="Candy Solid" />
-    <list_header image="candy_spearmint" name="Candy Spearmint" />
-    <list_header image="candy_stripped" name="Candy Stripped" />
+    <change_interval minutes="10" />
+    <random_header image="candy_blue" name="Candy Blue"/>
+    <random_header image="candy_darkside" name="Candy Darkside"/>
+    <random_header image="candy_outline" name="Candy Outline"/>
+    <random_header image="candy_random" name="Candy Random"/>
+    <random_header image="candy_red" name="Candy Red"/>
+    <random_header image="candy_redmint" name="Candy Redmint"/>
+    <random_header image="candy_redswirl" name="Candy Redswirl"/>
+    <random_header image="candy_solid" name="Candy Solid" />
+    <random_header image="candy_spearmint" name="Candy Spearmint" />
+    <random_header image="candy_stripped" name="Candy Stripped" />
 </daylight_headers>
