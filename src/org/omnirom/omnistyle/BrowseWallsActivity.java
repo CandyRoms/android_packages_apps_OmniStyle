@@ -350,8 +350,10 @@ public class BrowseWallsActivity extends Activity {
             case R.id.sort_by:
                 if (mSortType == SORT_BY_CREATOR) {
                     mSortType = SORT_BY_DEFAULT;
+                    item.setTitle(getResources().getString(R.string.sort_by_creator_menu));
                 } else if (mSortType == SORT_BY_DEFAULT) {
                     mSortType = SORT_BY_CREATOR;
+                    item.setTitle(getResources().getString(R.string.sort_by_default_menu));
                 }
                 sortWallpapers();
                 break;
