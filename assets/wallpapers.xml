@@ -16,5 +16,65 @@
  -->
 
 <wallpapers>
-    <wallpaper image="candy_wallpaper01" creator="CandyRoms" name="Candy default" />
+    <wallpaper image="crw_01" creator="Roger Truttman" name="Red logo with gray stripe" />
+    <wallpaper image="crw_02" creator="Roger Truttman" name="Green logo with gray stripe" />
+    <wallpaper image="crw_03" creator="Roger Truttman" name="Blue logo with gray stripe" />
+    <wallpaper image="crw_04" creator="Roger Truttman" name="Pink logo with gray stripe" />
+    <wallpaper image="crw_05" creator="Roger Truttman" name="Yellow logo with gray stripe" />
+    <wallpaper image="crw_06" creator="Roger Truttman" name="Orange logo with gray stripe" />
+    <wallpaper image="crw_07" creator="Roger Truttman" name="White logo with gray stripe" />
+    <wallpaper image="crw_08" creator="Roger Truttman" name="Blue logo with smoke" />
+    <wallpaper image="crw_09" creator="Roger Truttman" name="Red logo with smoke" />
+    <wallpaper image="crw_10" creator="Roger Truttman" name="Orange logo with smoke" />
+    <wallpaper image="crw_11" creator="Roger Truttman" name="Yellow logo with smoke" />
+    <wallpaper image="crw_12" creator="Roger Truttman" name="Green logo with smoke" />
+    <wallpaper image="crw_13" creator="Roger Truttman" name="Purple logo with smoke" />
+    <wallpaper image="crw_14" creator="Roger Truttman" name="Pink logo with smoke" />
+    <wallpaper image="crw_15" creator="Roger Truttman" name="Fuscia logo with smoke" />
+    <wallpaper image="crw_16" creator="Roger Truttman" name="Mintgreen logo with smoke" />
+    <wallpaper image="crw_17" creator="Roger Truttman" name="Peach design" />
+    <wallpaper image="crw_18" creator="Roger Truttman" name="Green design" />
+    <wallpaper image="crw_19" creator="Roger Truttman" name="Purple design" />
+    <wallpaper image="crw_20" creator="Roger Truttman" name="Pink design" />
+    <wallpaper image="crw_21" creator="Roger Truttman" name="Gray-orange design" />
+    <wallpaper image="crw_22" creator="Roger Truttman" name="Blue design" />
+    <wallpaper image="crw_23" creator="Roger Truttman" name="Gray design" />
+    <wallpaper image="crw_24" creator="Roger Truttman" name="Blue circuit" />
+    <wallpaper image="crw_25" creator="Roger Truttman" name="Green circuit" />
+    <wallpaper image="crw_26" creator="Roger Truttman" name="Pink circuit" />
+    <wallpaper image="crw_27" creator="Roger Truttman" name="Fuscia circuit" />
+    <wallpaper image="crw_28" creator="Roger Truttman" name="Yellow circuit" />
+    <wallpaper image="crw_29" creator="Roger Truttman" name="Cyan circuit" />
+    <wallpaper image="crw_30" creator="Roger Truttman" name="Red circuit" />
+    <wallpaper image="crw_31" creator="Roger Truttman" name="Gray circuit" />
+    <wallpaper image="crw_32" creator="Roger Truttman" name="Blue circuit2" />
+    <wallpaper image="crw_33" creator="Roger Truttman" name="Pink circuit2" />
+    <wallpaper image="crw_34" creator="Roger Truttman" name="Lime circuit" />
+    <wallpaper image="crw_35" creator="Roger Truttman" name="Fuscia circuit2" />
+    <wallpaper image="crw_36" creator="Roger Truttman" name="Orange circuit2" />
+    <wallpaper image="crw_37" creator="Roger Truttman" name="Green circuit2" />
+    <wallpaper image="crw_38" creator="Roger Truttman" name="Gray circuit2" />
+    <wallpaper image="crw_39" creator="Roger Truttman" name="Coffee" />
+    <wallpaper image="crw_40" creator="Roger Truttman" name="Red logo" />
+    <wallpaper image="crw_41" creator="Roger Truttman" name="Green" />
+    <wallpaper image="crw_42" creator="Roger Truttman" name="Blue" />
+    <wallpaper image="crw_43" creator="Roger Truttman" name="Orange" />
+    <wallpaper image="crw_44" creator="Roger Truttman" name="Yellow" />
+    <wallpaper image="crw_45" creator="Roger Truttman" name="Pink" />
+    <wallpaper image="crw_46" creator="Roger Truttman" name="Purple" />
+    <wallpaper image="crw_47" creator="Roger Truttman" name="Gray" />
+    <wallpaper image="crw_48" creator="Roger Truttman" name="Pastel" />
+    <wallpaper image="crw_49" creator="Roger Truttman" name="Neon" />
+    <wallpaper image="crw_50" creator="Roger Truttman" name="Faded" />
+    <wallpaper image="crw_51" creator="CandyRoms" name="Legacy red logo" />
+    <wallpaper image="crw_52" creator="CandyRoms" name="Legacy red 2" />
+    <wallpaper image="crw_53" creator="CandyRoms" name="Legacy teal" />
+    <wallpaper image="crw_54" creator="CandyRoms" name="Candy makers" />
+    <wallpaper image="crw_55" creator="CandyRoms" name="Legacy red3" />
+    <wallpaper image="crw_56" creator="CandyRoms" name="Legacy teal2" />
+    <wallpaper image="crw_57" creator="CandyRoms" name="Legacy teal3" />
+    <wallpaper image="crw_58" creator="CandyRoms" name="Legacy Cat and Moon" />
+    <wallpaper image="crw_59" creator="CandyRoms" name="Legacy Red paint" />
+    <wallpaper image="crw_60" creator="CandyRoms" name="Legacy Purple paint" />
+    <wallpaper image="crw_61" creator="CandyRoms" name="Legacy Gray pattern" />
 </wallpapers>
