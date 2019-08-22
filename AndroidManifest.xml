@@ -82,6 +82,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity-alias>
         <activity
+            android:name=".candy"
+            android:label="Candy" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".beaches"
             android:label="Beaches" >
             <intent-filter>
@@ -142,14 +150,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".space_interval"
             android:label="Space (interval)" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".theme"
-            android:label="Theme" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
